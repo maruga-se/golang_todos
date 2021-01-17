@@ -1,0 +1,37 @@
+2021/01/12 19:40:14 main.go:15: test
+2021/01/16 21:07:23 users.go:136: no such table: session
+2021/01/17 12:41:48 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 12:41:48 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:15 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:15 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:17 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:17 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:24 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:24 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:26 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:26 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:45 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:45 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:19:47 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:24:32 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:24:45 route_main.go:58: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:24:45 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:24:46 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:24:54 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:24:59 route_main.go:58: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:24:59 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 20:24:59 route_main.go:30: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:03:15 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:03:15 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:03:16 route_main.go:77: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:03:16 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:11:45 route_main.go:77: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:11:45 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:11:46 route_main.go:77: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:11:46 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:11:52 route_main.go:98: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:11:52 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:11:52 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:27:38 route_main.go:116: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:27:38 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
+2021/01/17 21:27:39 route_main.go:31: sql: expected 6 destination arguments in Scan, not 5
